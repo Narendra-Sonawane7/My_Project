@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 import requests
 
 app = Flask(__name__)
-API_KEY = "ab467d360f8db2b7be9391b79fbb5cbb"
+API_KEY = "your api key"
 
 @app.route("/")
 def home():
