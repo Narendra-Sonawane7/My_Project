@@ -1,0 +1,8 @@
+# =============================================================================
+# requirements.txt — Project dependencies
+# =============================================================================
+# Install all dependencies with:   pip install -r requirements.txt
+# =============================================================================
+
+requests==2.31.0      # HTTP library — used in groq_client.py to call the API
+python-dotenv==1.0.0  # Loads variables from .env file into os.environ
