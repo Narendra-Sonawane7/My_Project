@@ -1,0 +1,61 @@
+{
+  "basic_info": {
+    "name": "Narendra Sonawane",
+    "age": "27",
+    "birthday": "12 May 1998",
+    "location": "Pune, India",
+    "phone": "8482896578",
+    "email": "naru.sonawane8888@gmail.com"
+  },
+  "work": {
+    "company": "Puneri Pattern PVT. LTD.",
+    "position": "Data Science Intern",
+    "boss": "Sarika mam",
+    "team": "",
+    "work_location": "Magarpatta City, Pune",
+    "work_hours": "",
+    "projects": []
+  },
+  "family": {
+    "spouse": "Naru",
+    "children": [],
+    "parents": [],
+    "siblings": []
+  },
+  "preferences": {
+    "favorite_food": [],
+    "favorite_music": [],
+    "hobbies": [],
+    "likes": [],
+    "dislikes": []
+  },
+  "routines": {
+    "morning_routine": "",
+    "work_routine": "",
+    "evening_routine": "",
+    "weekend_routine": ""
+  },
+  "important_dates": {
+    "anniversaries": [],
+    "birthdays": [],
+    "events": []
+  },
+  "contacts": {
+    "friends": [
+      "Ashwini",
+      "Ridhhi",
+      "Shradhha",
+      "Dimpal",
+      "Sushil",
+      "Krishna",
+      "Abhishek"
+    ],
+    "colleagues": [],
+    "emergency": []
+  },
+  "custom": {},
+  "metadata": {
+    "created": "2026-02-15T16:04:08.517523",
+    "last_updated": "2026-02-15T16:04:08.517523"
+  }
+}
